@@ -24,4 +24,4 @@ pip install streamlit PyPDF2
 streamlit run app.py
 
 ## Author
-Zayna
+Mohammed Nafi E P
